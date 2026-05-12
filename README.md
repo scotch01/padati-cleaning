@@ -15,6 +15,6 @@
 
 ## Run Local
 
-pip install -r requirements.txt
-streamlit run app/Home.py (for multi-page)
-streamlit run app/streamlit_app.py (for single-page)
+- pip install -r requirements.txt
+- streamlit run app/Home.py (for multi-page)
+- streamlit run app/streamlit_app.py (for single-page)
